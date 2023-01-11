@@ -2,10 +2,10 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": " leet easy question practise",
-  "main": "longestCommonPrefix.js",
+  "main": "missingNumbers.js",
   "type": "module",
   "scripts": {
-    "start":"nodemon src/longestCommonPrefix.js"
+    "start":"nodemon src/missingNumbers.js"
   },
   "repository": {
     "type": "git",
