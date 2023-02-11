@@ -2,10 +2,10 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": " leet easy question practise",
-  "main": "missingNumbers.js",
+  "main": "validparentheses.js",
   "type": "module",
   "scripts": {
-    "start":"nodemon src/missingNumbers.js"
+    "start":"nodemon src/QuickSort/quicksortHoare1.js"
   },
   "repository": {
     "type": "git",

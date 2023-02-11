@@ -34,7 +34,7 @@ const missingNumbers = (nums)=>{
 
 }
 
-console.log(missingNumbers([1]))
+console.log(missingNumbers([1,2,4,5,6,7,8,9]))
 
 
 //Complexity:
